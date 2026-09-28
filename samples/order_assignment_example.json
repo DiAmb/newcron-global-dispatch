@@ -1,0 +1,14 @@
+{
+  "shipperOrderId": "6600111",
+  "pickupDate": "2026-09-21",
+  "deliveryDate": "2026-09-22",
+  "price": 900,
+  "stops": [
+    { "stopNumber": 1, "city": "Milford", "state": "MA", "postalCode": "01757" },
+    { "stopNumber": 2, "city": "Shippensburg", "state": "PA", "postalCode": "17257" }
+  ],
+  "vehicles": [
+    { "year": "2010", "make": "Toyota", "model": "Corolla" }
+  ],
+  "transportationReleaseNotes": "Verify the pickup date; shipments cannot be delivered after 3:00 p.m. on the current date or on previous days."
+}

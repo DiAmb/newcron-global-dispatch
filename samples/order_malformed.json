@@ -1,0 +1,22 @@
+{
+  "shipperOrderId": "6600113",
+  "pickupDate": "2026-12-01",
+  "deliveryDate": "2026-12-03",
+  "price": 900,
+  "stops": [
+    {
+      "stopNumber": 1,
+      "city": "Milford",
+      "state": "MA",
+      "postalCode": "01757"
+    },
+    {
+      "stopNumber": 2,
+      "city": "Shippensburg",
+      "state": "PA",
+      "postalCode": "17257"
+    }
+  ],
+  "vehicles": [{ "year": "2010", "make": "Toyota", "model": "Corolla" }],
+  "transportationReleaseNotes": "Nada"
+}

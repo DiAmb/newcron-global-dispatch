@@ -1,0 +1,9 @@
+# Secretos y entorno
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Datos locales generados por los dashboards
+data/
+trusted-store/
